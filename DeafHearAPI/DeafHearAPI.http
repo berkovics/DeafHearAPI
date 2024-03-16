@@ -1,0 +1,6 @@
+@DeafHearAPI_HostAddress = http://localhost:5284
+
+GET {{DeafHearAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
